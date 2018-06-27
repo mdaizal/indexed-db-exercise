@@ -1,0 +1,46 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+header {
+    background-color: khaki;
+    line-height: 100px;
+    padding: 0 5px;
+}
+
+.newNote, .notesArea {
+    padding: 10px;
+}
+
+.newNote {
+    background-color: cadetblue;
+}
+
+.noteTitle {
+    width: 250px;
+    height: 30px;
+}
+
+.noteContent {
+    width: 250px;
+    height: 180px;
+    resize: none;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.timeStamp {
+    font-size: 10px;
+    font-style: italic;
+}
