@@ -3,7 +3,7 @@ var noteContent = document.querySelector('.noteContent');
 var submitBtn = document.querySelector('.submitBtn');
 var form = document.querySelector('form');
 var list = document.querySelector('ul');
-// element to create in loop - li, h3, p for content
+// element to create - li, h3, p for content
 
 let db;
 
